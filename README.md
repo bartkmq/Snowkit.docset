@@ -1,5 +1,5 @@
 #Snowkit.docset
-This repository contains an offline api documention for Luxe, Snow, Nape, Gesluxe and Rainbow.
+This repository contains an offline api documention for Luxe, Snow, Nape, Gesluxe and the Haxe Std Lib.
 
 | Library       | Version       |
 | ------------- |---------------|
@@ -8,7 +8,6 @@ This repository contains an offline api documention for Luxe, Snow, Nape, Geslux
 | [Snow]        | d4d76b8       |
 | [Nape]        | dbe6663       |
 | [Gesluxe]     | d006820       |
-| [Rainbow]     | dd769fb       |
 ---
 ## Usage
 - **Install** Zeal (Windows, Linux), Dash (commercial, OS X) or Velocity (commercial, Windows)
