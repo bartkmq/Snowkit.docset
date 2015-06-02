@@ -38,8 +38,8 @@ This repository contains offline api documention for Luxe, Snow, Nape, Gesluxe a
 ```bash
 C:\Program Files (x86)\Zeal\zeal.exe; $(ItmTypPkgName)
 ```
-  ![](images/zeal_flashdevelop_settings.PNG)
-  
+    ![](images/zeal_flashdevelop_settings.PNG)
+    
 - You can now press F1 when your cursor is over a Haxe Type to open the documentation
 
   ![](images/zeal_flashdevelop_cursor.png)
