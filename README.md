@@ -1,5 +1,5 @@
 #Snowkit.docset
-This repository contains a offline api documention for Luxe, Snow, Nape, Gesluxe and Rainbow.
+This repository contains an offline api documention for Luxe, Snow, Nape, Gesluxe and Rainbow.
 
 | Library       | Version       |
 | ------------- |---------------|
