@@ -1,7 +1,7 @@
 #Snowkit.docset
 This repository contains a offline api documention for Luxe, Snow, Nape, Gesluxe and Rainbow.
 
-| Libaray       | Version       |
+| Library       | Version       |
 | ------------- |---------------|
 | [Haxe]        | 3.2.0         |
 | [Luxe]        | d0cd40f       |
