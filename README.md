@@ -1,5 +1,5 @@
 #Snowkit.docset
-This repository contains offline api documention for Luxe, Snow, Nape, Gesluxe and Rainbow.
+This repository contains a offline api documention for Luxe, Snow, Nape, Gesluxe and Rainbow.
 
 | Libaray       | Version       |
 | ------------- |---------------|
@@ -11,7 +11,7 @@ This repository contains offline api documention for Luxe, Snow, Nape, Gesluxe a
 | [Rainbow]     | dd769fb       |
 ---
 ## Usage
-- **Install** Zeal (Windows, Linux), Dash (commercial, OS X) or Velocity (Windows)
+- **Install** Zeal (Windows, Linux), Dash (commercial, OS X) or Velocity (commercial, Windows)
   - [Zeal](http://zealdocs.org/)
   - [Dash](https://kapeli.com/dash)
   - [Velocity](http://velocity.silverlakesoftware.com/)
